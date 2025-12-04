@@ -1,0 +1,1 @@
+Điều khiển xe qua app trên điện thoại android, đánh giá độ nghiêng của mặt đường. Xe xử dụng 4 bánh đa hướng , espp8266 để giao tiếp và truyền nhận dữ liệu từ điện thoại. Cảm biến được sử dụng để dánh giá bề mặt nghiêng của đường là MPU6050 và mạch Motor Shield L293D để điều khiển 4 bánh xe đa hướng.
